@@ -1,0 +1,18 @@
+.notif__bar{
+    box-shadow: 5px 10px 20px 1px rgba(0,0,0,0.353)!important;;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+.notif__cap{
+    display:flex;
+    
+}
+.notif__cap > .MuiSvgIcon-root{
+    color:#1FBC2F;
+    font-size: 16px;
+    margin-top: 1px;
+    margin-right: 3px;
+}
